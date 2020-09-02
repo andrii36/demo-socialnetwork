@@ -1,0 +1,17 @@
+.navbar{
+    grid-area: n;
+    background-color: chocolate;
+}
+.items{
+    color: white;
+    margin-left: 15px;
+    margin-top: 15px;
+    
+}
+.item a{
+    color: white;
+    text-decoration: none;
+}
+.item a.active{
+    color: gold;
+}

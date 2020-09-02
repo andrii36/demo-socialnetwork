@@ -1,0 +1,13 @@
+.header{
+    grid-area: h;
+    background-color: burlywood;
+}
+.header img{
+    width: 50px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.login a{
+    float: right;
+    color: aliceblue;
+}
