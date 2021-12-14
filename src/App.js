@@ -19,7 +19,7 @@ class App extends React.Component {
   }
 
   render(){
-    if(!this.props.initialized){return <Preloader/>}
+    //if(!this.props.initialized){return <Preloader/>}
     return (
       <div className="App">
         <HeaderContainer/>
